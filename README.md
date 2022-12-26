@@ -8,6 +8,7 @@ Aplicativo desenvolvido para exercitar os conceitos estudados no curso de Dart e
 - Cloud Firestore
 - Storage
 - Authentication
+- Mobx
 
 **Como executar?**<br>
 No terminal, clone o projeto:
