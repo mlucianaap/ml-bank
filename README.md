@@ -1,4 +1,5 @@
 # ml bank
+![Preview-Screens](https://github.com/mlucianaap/teste/blob/main/app.png)
 
 Aplicativo desenvolvido para exercitar os conceitos estudados no curso de Dart e Flutter. 
 
